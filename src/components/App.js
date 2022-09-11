@@ -8,8 +8,6 @@ import friends from './Friends/friends.json';
 import TransactionHistory from './Transaction/TransactionHistory';
 import transactions from './Transaction/transactions.json';
 
-
-console.log(data);
 export default function App() {
   return (
   <div>
